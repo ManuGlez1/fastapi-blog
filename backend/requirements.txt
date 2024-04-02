@@ -9,6 +9,13 @@ pydantic[email]
 
 passlib[bcrypt]
 
+pytest==7.4.2
+httpx==0.24.1
+
 python-jose==3.3.0
 
 python-multipart==0.0.6
+
+Jinja2==3.1.2
+
+aiofiles==23.1.0
