@@ -3,3 +3,6 @@ __pycache__
 .env
 env
 .vscode
+*.rdb
+*.db
+.DS_Store
